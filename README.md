@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @srao-positron
-- 👀 I’m the CEO of Positron Networks, Inc.
-- 🌱 I’m currently building a startup.
-- 💞️ I’m looking to collaborate on scientific computing.
-- 📫 How to reach me srao at positronnetworks.com.
+- 👀 I’m a Sr. Director of Generative AI Customer Engagement at Oracle
+- 🌱 I build generative AI services for big data.
+- 💞️ I’m looking to collaborate on anything generative AI.
+- 📫 How to reach me: sid.rao at oracle.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have two dogs who are the center of my life (other than my wife, who takes a priority).
 
